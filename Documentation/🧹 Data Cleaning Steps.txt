@@ -1,0 +1,10 @@
+BMW Sales Data (2010–2024) – Cleaning Process
+---------------------------------------------
+
+1. Removed duplicate rows.
+2. Checked and confirmed there are no missing values.
+3. Corrected inconsistent capitalization in column names.
+4. Converted 'Price_USD' to numeric values.
+5. Verified 'Year' column range (2010–2024).
+6. Formatted 'Mileage_KM' and 'Sales_Volume' with proper numbers.
+7. Saved final clean data as: BMW_Data_Cleaned table in Excel.
