@@ -53,26 +53,12 @@ The Excel dashboard visualizes:
 📘 Insights report: [`Documentation/Insights_Report.docx`](./Documentation/Insights_Report.docx)  
 📊 Dashboard PDF: [`PDF/BMW_Dashboard.pdf`](./PDF/BMW_Dashboard.pdf)
 
- 
-
 ## 🛠️ Tools Used
 - **Microsoft Excel**
   - Pivot Tables  
   - Data Cleaning  
   - Charts & Visuals 
 
- 
-
-## 🙋 About Me
-Hi, I’m **Abdirahman Ahmed** 👋  
-
-- 🎓 Junior Data Analyst skilled in **Python, SQL, Excel, and Power BI**  
-- 📊 Passionate about turning raw data into actionable insights  
-- 🎥 In my free time, I enjoy **video editing** and bringing stories to life visually  
-- 🌱 Currently building projects to strengthen my data analysis portfolio  
-- 💡 Always curious to learn, explore, and apply new data techniques  
-
 📫 Connect with me on:  
-- [LinkedIn](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
-- [GitHub](https://github.com/Abdirahman312)  
-- 📧 Email: **abdirahmanahmed2728@email.com**
+- 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
+- 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
