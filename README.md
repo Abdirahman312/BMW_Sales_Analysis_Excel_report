@@ -28,7 +28,7 @@ Key steps included:
 4. Verified valid year range (2010–2024).  
 5. Formatted numeric columns (`Mileage_KM`, `Sales_Volume`).  
 6. Saved final cleaned data as **BMW_Data_Cleaned**.
-📄 Full details: [Data_Cleaning_Steps.txt](Documentation/Data_Cleaning_Steps.txt)
+📄 Full details on: `Data_Cleaning_Steps.txt`
 
 
 
@@ -48,10 +48,10 @@ The Excel dashboard visualizes:
 4. **Best region for sales:** North America  
 5. **Average car price:** $92,000  
 6. **Electric models:** Increasing sales since 2020 
-📘 Insights report: Documentation/Insights_Report.docx 
+📘 Insights report on: `Documentation/Insights_Report.docx`
 
-📘 Insights report: [`Documentation/Insights_Report.docx`](./Documentation/Insights_Report.docx)  
-📊 Dashboard PDF: [`PDF/BMW_Dashboard.pdf`](./PDF/BMW_Dashboard.pdf)
+- 📘 Insights report on: [`Documentation/Insights_Report.docx`]
+- 📊 Dashboard PDF on: `PDF/BMW_Dashboard.pdf`
 
 ## 🛠️ Tools Used
 - **Microsoft Excel**
@@ -62,3 +62,4 @@ The Excel dashboard visualizes:
 📫 Connect with me on:  
 - 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
+
