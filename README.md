@@ -1,4 +1,4 @@
-# 🚗 BMW Sales Analysis (2010–2024) — Excel Dashboard  <img src="https://github.com/user-attachments/assets/5ae1f07c-0064-4e41-b24a-ebd3dcebb69f" width="40px">
+# 🚗 BMW Sales Analysis Excel <img src="https://github.com/user-attachments/assets/5ae1f07c-0064-4e41-b24a-ebd3dcebb69f" width="40px">
 
 ## 📊 Project Overview
 This project analyzes BMW car sales data from **2010 to 2024**, focusing on identifying trends, top-performing models, and regional performance.  
@@ -62,5 +62,6 @@ The Excel dashboard visualizes:
 📫 Connect with me on:  
 - 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
+
 
 
