@@ -4,6 +4,7 @@
 This project analyzes BMW car sales data from **2010 to 2024**, focusing on identifying trends, top-performing models, and regional performance.  
 All data cleaning, analysis, and visualization were completed **entirely in Microsoft Excel** using pivot tables and charts.
 
+---
 ## 🧩 Dataset
 **File:** `BMW sales data (2010–2024).csv`  
 **Rows:** 50,000  
@@ -17,7 +18,7 @@ All data cleaning, analysis, and visualization were completed **entirely in Micr
 - `Sales_Volume` – Number of cars sold
 - `Region` – Geographic market
 
- 
+---
 
 ## 🧹 Data Cleaning Steps
 All cleaning was performed in Excel.  
@@ -29,11 +30,8 @@ Key steps included:
 5. Formatted numeric columns (`Mileage_KM`, `Sales_Volume`).  
 6. Saved final cleaned data as **BMW_Data_Cleaned**.
 📄 Full details on: `Data_Cleaning_Steps.txt`
-
-
-
  
-
+---
 ## 📈 Dashboard & Insights
 The Excel dashboard visualizes:
 - Annual sales trends  
@@ -41,6 +39,7 @@ The Excel dashboard visualizes:
 - Top regions for sales  
 - Average price comparison  
 
+---
 **Key Findings:**
 1. **Highest total sales year:** 2024 ($257M)  
 2. **Most popular model:** BMW 5 Series  
@@ -50,18 +49,22 @@ The Excel dashboard visualizes:
 6. **Electric models:** Increasing sales since 2020 
 📘 Insights report on: `Documentation/Insights_Report.docx`
 
+---
 - 📘 Insights report on: [`Documentation/Insights_Report.docx`]
 - 📊 Dashboard PDF on: `PDF/BMW_Dashboard.pdf`
 
+---
 ## 🛠️ Tools Used
 - **Microsoft Excel**
   - Pivot Tables  
   - Data Cleaning  
   - Charts & Visuals 
 
+---
 ## 📫 Connect with me on:  
 - 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
+
 
 
 
