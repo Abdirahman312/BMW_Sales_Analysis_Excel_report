@@ -75,6 +75,16 @@ The Excel dashboard visualizes:
 5. **Average car price:** $92,000  
 6. **Electric models:** Increasing sales since 2020 
 📘 Insights report on: `Documentation/Insights_Report.docx`
+---
+
+## 🚀 How to Use This Project
+
+### **1. Download the dataset**
+Go to `/data` folder → download CSV.
+
+### **2. Open the dashboard**
+Open:
+- Excel
 
 ---
 - 📘 Insights report on: [`Documentation/Insights_Report.docx`]
@@ -91,6 +101,7 @@ The Excel dashboard visualizes:
 ## 📫 Connect with me on:  
 - 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
+
 
 
 
