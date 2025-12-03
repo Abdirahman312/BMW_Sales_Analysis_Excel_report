@@ -19,7 +19,25 @@ All data cleaning, analysis, and visualization were completed **entirely in Micr
 - `Region` – Geographic market
 
 ---
+---
 
+## 📁 Folder Structure
+```
+├── data/ # Raw dataset
+├── dashboard/ # Excel
+├── images/ # Screenshots & charts used in README
+└── README.md
+```
+---
+
+## 🧠 Objectives / Business Questions
+This analysis answers the following questions:
+
+1. What trends exist in the data?
+2. Which category performs best?
+3. What insights can support business decisions?
+
+---
 ## 🧹 Data Cleaning Steps
 All cleaning was performed in Excel.  
 Key steps included:
@@ -30,8 +48,17 @@ Key steps included:
 5. Formatted numeric columns (`Mileage_KM`, `Sales_Volume`).  
 6. Saved final cleaned data as **BMW_Data_Cleaned**.
 📄 Full details on: `Data_Cleaning_Steps.txt`
- 
+ ---
+
+## 🔍 Data Cleaning & Preparation
+- Removed duplicates  
+- Handled missing values  
+- Cleaned data types  
+- Normalized columns (dates, numeric values)  
+- Split and extracted relevant information  
+
 ---
+
 ## 📈 Dashboard & Insights
 The Excel dashboard visualizes:
 - Annual sales trends  
@@ -64,6 +91,7 @@ The Excel dashboard visualizes:
 ## 📫 Connect with me on:  
 - 💼 **LinkedIn:** [linkedin.com/in/abdirahman-ahmed-b7841a343](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343)  
 - 📧 **Email:** [abdirahmanahmed2728@email.com](mailto:abdirahmanahmed2728@email.com)  
+
 
 
 
