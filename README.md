@@ -31,6 +31,8 @@ Present insights in a clean Excel dashboard
 └── README.md
 ```
 
+---
+
 ## 🛠 Tools Used
 
 Microsoft Excel
